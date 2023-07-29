@@ -32,7 +32,7 @@ Print all the chunks of a file 'file.png'
 ```
 pngme print file.png
 ```
-Remove a chunk with a type 'rust' from a image file named 'picture.png'
+Remove a chunk with a type 'rust' from an image file named 'picture.png'
 ```
 pngme remove picture.png rust
 ```
